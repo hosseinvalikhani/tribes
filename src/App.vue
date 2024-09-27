@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from "./components/HelloWorld.vue";
+import tribesComponent from "./components/tribesComponent.vue";
 </script>
 
 <template>
-  <HelloWorld />
+  <tribes-component />
 </template>
 
 <style scoped></style>
